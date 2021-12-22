@@ -1,8 +1,8 @@
 {
-  "name": "My_Project_Here",
+  "name": "joe-graphile",
   "version": "4.1.0",
   "private": true,
-  "description": "Description of project here",
+  "description": "Playground for Graphile",
   "scripts": {
     "setup": "yarn && yarn setup:env auto && yarn setup:db && yarn setup:packages",
     "setup:env": "node ./scripts/setup_env.js",
